@@ -1,2 +1,2 @@
-# javascrip_DOM_project3
-DOM project cursor move
+# javascrip_DOM_project-3
+cursor project
